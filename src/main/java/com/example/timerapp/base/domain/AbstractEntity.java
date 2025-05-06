@@ -1,7 +1,7 @@
-package com.example.application.base.domain;
+package com.example.timerapp.base.domain;
 
 import jakarta.persistence.MappedSuperclass;
-import org.jspecify.annotations.Nullable;
+import org.springframework.lang.Nullable;
 import org.springframework.data.util.ProxyUtils;
 
 @MappedSuperclass

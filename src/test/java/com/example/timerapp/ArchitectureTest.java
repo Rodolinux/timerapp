@@ -1,4 +1,4 @@
-package com.example.application;
+package com.example.timerapp;
 
 import com.tngtech.archunit.junit.AnalyzeClasses;
 import com.tngtech.archunit.junit.ArchTest;
